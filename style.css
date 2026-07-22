@@ -227,6 +227,12 @@ header h1 {
     padding:10px;
 
 }
+.purple{
+    background:#6f42c1;
+}
 
+.purple:hover{
+    background:#5a32a3;
+}
 
 }
