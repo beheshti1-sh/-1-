@@ -234,5 +234,21 @@ header h1 {
 .purple:hover{
     background:#5a32a3;
 }
+.purple{
+    display:block;
+    width:80%;
+    margin:20px auto;
+    padding:18px;
+    background:#6f42c1;
+    color:#fff;
+    text-align:center;
+    font-size:30px;
+    font-weight:bold;
+    border-radius:12px;
+    text-decoration:none;
+}
 
+.purple:hover{
+    background:#5a32a3;
+}
 }
